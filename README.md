@@ -10,7 +10,7 @@
 [download-url]: https://npmjs.org/package/bdwm-offline-config
 
 
-## install
+## 安装
 
 [![bdwm-offline-config](https://nodei.co/npm/bdwm-offline-config.png)](https://npmjs.org/package/bdwm-offline-config)
 
@@ -18,7 +18,6 @@
 
 ## 用法
 
-初始化
 ```javascript
 var BdwmOfflineConfig = require('bdwm-offline-config')
 
