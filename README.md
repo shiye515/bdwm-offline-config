@@ -35,8 +35,8 @@ module.exports = {
 
 ## 截图
 
-![webpack.conf.js](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/screenshot/webpack.conf.js.png)
+![webpack.conf.js](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/master/screenshot/webpack.conf.js.png)
 
-![cli](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/screenshot/cli.png)
+![cli](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/master/screenshot/cli.png)
 
-![config.json](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/screenshot/config.json.png)
+![config.json](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/master/screenshot/config.json.png)
