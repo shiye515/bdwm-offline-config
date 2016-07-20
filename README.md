@@ -32,3 +32,11 @@ module.exports = {
 
 ### id
 离线包id
+
+## 截图
+
+![webpack.conf.js](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/screenshot/webpack.conf.js.png)
+
+![cli](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/screenshot/cli.png)
+
+![config.json](https://raw.githubusercontent.com/shiye515/bdwm-offline-config/screenshot/config.json.png)
